@@ -1,4 +1,4 @@
-# THE-ADOPTION-PARADOX-CASUAL-LOOP
+# THE-ADOPTION-PARADOX-CAUSAL-LOOP
 Markdown# The Adoption Causal Loop Paradox
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23030118.svg)](https://doi.org/10.5281/zenodo.23030118)
