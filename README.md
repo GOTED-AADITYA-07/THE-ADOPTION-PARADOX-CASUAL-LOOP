@@ -1,7 +1,7 @@
 # THE-ADOPTION-PARADOX-CASUAL-LOOP
 Markdown# The Adoption Causal Loop Paradox
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.YOUR__ZENODO__ID-blue.svg)](https://doi.org/10.5281/zenodo.YOUR_ZENODO_ID)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.YOUR__ZENODO__ID-blue.svg)](https://doi.org/10.5281/zenodo.23030118)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Status](https://img.shields.io/badge/Status-Preprint-green.svg)](#)
 
